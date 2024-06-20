@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mobile - Angry Birds Go - Red
+* source:	https://sketchfab.com/3d-models/mobile-angry-birds-go-red-3c80ecdd86a94d6099fea3907c696442
+* author:	dimitrios.kanellos6 (https://sketchfab.com/dimitrios.kanellos6)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mobile - Angry Birds Go - Red" (https://sketchfab.com/3d-models/mobile-angry-birds-go-red-3c80ecdd86a94d6099fea3907c696442) by dimitrios.kanellos6 (https://sketchfab.com/dimitrios.kanellos6) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

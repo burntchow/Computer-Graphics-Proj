@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scout Slingshot from secret neighbor
+* source:	https://sketchfab.com/3d-models/scout-slingshot-from-secret-neighbor-424df49ef1334360a9490da34c72b522
+* author:	Harlie/Kaeul (https://sketchfab.com/harleymh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scout Slingshot from secret neighbor" (https://sketchfab.com/3d-models/scout-slingshot-from-secret-neighbor-424df49ef1334360a9490da34c72b522) by Harlie/Kaeul (https://sketchfab.com/harleymh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,64 @@
+﻿  main.cpp
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(639,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(759,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(760,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(772,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(790,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(894,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(894,30): warning C4244:         with
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(894,30): warning C4244:         [
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(894,30): warning C4244:             T=float
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(894,30): warning C4244:         ]
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(907,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(907,22): warning C4244:         with
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(907,22): warning C4244:         [
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(907,22): warning C4244:             T=float
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(907,22): warning C4244:         ]
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(921,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(921,22): warning C4244:         with
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(921,22): warning C4244:         [
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(921,22): warning C4244:             T=float
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(921,22): warning C4244:         ]
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(935,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(935,30): warning C4244:         with
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(935,30): warning C4244:         [
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(935,30): warning C4244:             T=float
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(935,30): warning C4244:         ]
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(949,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(949,30): warning C4244:         with
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(949,30): warning C4244:         [
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(949,30): warning C4244:             T=float
+C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(949,30): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56): warning C4244: 'argument': conversion from '_Ty' to 'float_t', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(418,29):
+  	see reference to function template instantiation 'std::unique_ptr<PauseAnimation,std::default_delete<PauseAnimation>> std::make_unique<PauseAnimation,_Ty&,int,0>(_Ty &,int &&)' being compiled
+          with
+          [
+              _Ty=Object3D
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56): warning C4244: 'argument': conversion from '_Ty' to 'float_t', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory(3465,56):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Aveline\source\repos\ProjectBasics\ProjectBasics\main.cpp(420,29):
+  	see reference to function template instantiation 'std::unique_ptr<RotationAnimation,std::default_delete<RotationAnimation>> std::make_unique<RotationAnimation,_Ty&,double,glm::vec3,0>(_Ty &,double &&,glm::vec3 &&)' being compiled
+          with
+          [
+              _Ty=Object3D
+          ]
+  
+  ProjectBasics.vcxproj -> C:\Users\Aveline\source\repos\ProjectBasics\x64\Debug\ProjectBasics.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
