@@ -36,5 +36,3 @@ Credit for texture used:
 __Grass__: https://www.sketchuptextureclub.com/textures/nature-elements/vegetation/green-grass/green-grass-texture-seamless-21349
 
 
-Sound and Sound effects for this project have been removed.
-
