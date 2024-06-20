@@ -1,5 +1,5 @@
 # Computer-Graphics-Proj
-3D graphics school project using free models and textures found online. Project demonstrates knowledge over OpenGL and Python to create a meaningful scene with lighting, animation and simulation, and interaction.
+3D graphics school project using free models and textures found online. Project demonstrates knowledge over OpenGL and C++ to create a meaningful scene with lighting, animation and simulation, and interaction.
 
 ---
 
