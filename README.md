@@ -1,4 +1,4 @@
-# Computer-Graphics-Proj
+# Computer Graphics Project
 3D graphics school project using free models and textures found online. Project demonstrates knowledge over OpenGL and C++ to create a meaningful scene with lighting, animation and simulation, and interaction.
 
 ---
